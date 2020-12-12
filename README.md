@@ -1,0 +1,1 @@
+Enumeration Currency Testing.
